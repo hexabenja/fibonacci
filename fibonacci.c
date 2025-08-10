@@ -9,3 +9,6 @@ int main(){
     a=b
     b=sum;
     }
+    printf("El número Fibonacci de "%n" es:"%d",sum);
+return 0;
+}
